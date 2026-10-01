@@ -46,7 +46,7 @@ def reset_score():
 
 # ウィンドウ作成
 root = tk.Tk()
-root.title("じゃんけんゲーム")
+root.title("じゃんけんゲーム Ver.1.1")
 root.geometry("500x400")  # ウィンドウサイズ
 
 
